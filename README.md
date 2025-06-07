@@ -439,3 +439,7 @@ This project **may be a *mirror*** of another primary repository. Below is a lis
 | `https://github.com/n1nj4t4nuk1/python-value-objects`       | Mirror    | Every 8 hours         |
 
 > ⚠️ Note: If you are viewing this repository on a platform like GitHub, GitLab, Gitea, Forgejo, etc., be aware that it **might not be the main repository**.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
