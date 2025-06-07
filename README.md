@@ -3,14 +3,14 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/PRs-welcome-green.svg)
-[![GitHub](https://img.shields.io/github/license/jparadadev/python-value-objects)](https://github.com/jparadadev/python-value-objects/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/n1nj4t4nuk1/python-value-objects)](https://github.com/n1nj4t4nuk1/python-value-objects/blob/main/LICENSE)
 [![Pypi](https://img.shields.io/pypi/v/pyvalueobjects)](https://pypi.org/project/pyvalueobjects/)
 [![Downloads](https://pepy.tech/badge/pyvalueobjects)](https://pepy.tech/project/pyvalueobjects)
-[![GA](https://github.com/jparadadev/python-value-objects/workflows/Tests/badge.svg)](https://github.com/jparadadev/python-value-objects/actions/workflows/test.yml)
+[![GA](https://github.com/n1nj4t4nuk1/python-value-objects/workflows/Tests/badge.svg)](https://github.com/n1nj4t4nuk1/python-value-objects/actions/workflows/test.yml)
  
 </div>
 
-![](https://raw.githubusercontent.com/jparadadev/python-value-objects/assets/assets/logo.png)
+![](https://raw.githubusercontent.com/n1nj4t4nuk1/python-value-objects/assets/assets/logo.png)
 
 A collection of Value Objects to save time by generalizing types and format validations.
 
