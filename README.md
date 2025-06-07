@@ -1,4 +1,4 @@
-<h1 align="center"> Python Value-Objects</h1>
+<h1 align="center"> Python Value Objects</h1>
 
 <div align="center">
 
