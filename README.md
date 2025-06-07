@@ -423,3 +423,19 @@ my_null_cpe = NullableCpe(None)
 my_cpe.value()  # returns -> 'cpe:/a:openjdk:openjdk:8u282'
 my_null_cpe.value()  # returns -> None
 ```
+
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a Pull Request. But **Make sure you are not contributing to a mirror repository.** Check the following [Repository Status](#-repository-status) section to identify the primary repository.
+
+### 🔄 Repository Status
+
+This project **may be a *mirror*** of another primary repository. Below is a list of all related repositories, indicating whether they are mirrors and their approximate sync frequency:
+
+| Repository URL                                              | Type      | Sync Frequency        |
+|-------------------------------------------------------------|-----------|-----------------------|
+| `https://codeberg.org/n1nj4t4nuk1/python-value-objects`     | Primary   | N/A                   |
+| `https://github.com/n1nj4t4nuk1/python-value-objects`       | Mirror    | Every 8 hours         |
+
+> ⚠️ Note: If you are viewing this repository on a platform like GitHub, GitLab, Gitea, Forgejo, etc., be aware that it **might not be the main repository**.
