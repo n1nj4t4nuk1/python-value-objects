@@ -9,8 +9,7 @@
 [![GA](https://github.com/n1nj4t4nuk1/python-value-objects/workflows/Tests/badge.svg)](https://github.com/n1nj4t4nuk1/python-value-objects/actions/workflows/test.yml)
  
 </div>
-
-![](https://raw.githubusercontent.com/n1nj4t4nuk1/python-value-objects/assets/assets/logo.png)
+&nbsp;
 
 A collection of Value Objects to save time by generalizing types and format validations.
 
